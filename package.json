@@ -1,0 +1,14 @@
+{
+  "name": "api-viagens",
+  "version": "1.0.0",
+  "description": "Desenvolvimento API projeto curso Faculdade UNISENAI - UC Desenvolvimento de Sistemas Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cleber Delgado",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
